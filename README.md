@@ -5,6 +5,11 @@
 Decentralized Finance (DeFi) popularity is sky rocketing and currently still the #1 use-cases of EVM based blockchains. CheatETH is an EVM based blockchain with real DeFi commuinity since it has shortage of important 3rd party services around DeFi. 
 DeFi cTH will provide a roadmap to bring cTH DeFi into a MVP phase!
 
+### Availalbe services:
+
+- https://app.tokendeployer.com/ Support cTH network with 0.01 cTH creation Fee. ! Create CheapSwap router by default !
+- https://cheapswap.io/ Support cTH DeFi tokens to provide liquidity.
+
 ### Roadmap
 
 #### Phase 1: (The Meme tokens)
