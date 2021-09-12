@@ -8,7 +8,7 @@ DeFi cTH will provide a roadmap to bring cTH DeFi into a MVP phase!
 ### Availalbe services:
 
 - https://app.tokendeployer.com/ Support cTH network with 0.01 cTH creation Fee. ! Create CheapSwap router by default !
-- https://cheapswap.io/ Support cTH DeFi tokens to provide liquidity.
+- https://cheapswap.io/ Support cTH DeFi tokens to provide liquidity. (https://cheapswap.io/#/swap?outputCurrency=YOUR TOKEN ADDRESS)
 
 ### Roadmap
 
